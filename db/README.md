@@ -15,5 +15,6 @@ The files follow the following naming convention: xxddmmyy.dbf, where:
 | mz | Coastal Marine Zones |
 | oz | Offshore Marine Zones |
 | z_ | Public Forecast Zones |
+| w_ | Weather Forcasting Offices |
 
 The latest dBase files, including other shapefile data, can be found at https://www.weather.gov/gis/AWIPSShapefiles.
